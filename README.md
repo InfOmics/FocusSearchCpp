@@ -2,6 +2,7 @@
 ***Version: 0.3***
 > C++ implementation of FocusSearch (originally implemented in Modula2 by Ullmann)
 
+<hr />
 
 Before use the FocusSearch-C++ command line interface of all distributions, please rebuilt it by make -B
 The tool usage is:
